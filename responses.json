@@ -73,7 +73,7 @@
   },
   "music": {
     "triggers": ["music"],
-    "response": "✦ Here are some of MonoDeaf's greatest releases on Spotify. <div><iframe style='border-radius:12px; margin-top: 1rem;' src='https://open.spotify.com/embed/artist/69SwCixKIgLsgeSbt2V5M6?utm_source=generator&theme=0' width='100%' height='450px' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe></div>"
+    "response": "✦ Here are some of MonoDeaf's greatest releases on Spotify. <div><iframe style='border-radius:12px; margin-top: 1rem; max-width: ;100%' src='https://open.spotify.com/embed/artist/69SwCixKIgLsgeSbt2V5M6?utm_source=generator&theme=0' width='500px' height='450px' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe></div>"
   },
   "releases": {
     "triggers": ["releases"],
@@ -95,7 +95,7 @@
     "triggers": ["fuck"],
     "type": "random",
     "responses": [
-      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='pointer-events:none; margin-top: 1rem;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='500' height='274' style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Do you kiss your mother with that mouth?",
       "✦ Umm, wow.",
       "✦ Do you treat all AI bots like this?",
@@ -103,7 +103,7 @@
       "✦ Yea, let's not.",
       "✦ You know, AI may or may not take over the world someday.",
       "✦ Did you just say... Nevermind.",
-      "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='480' height='360'  style='pointer-events:none; margin-top: 1rem;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='500' height='360'  style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Come back when you've chilled out."
     ]
   },
@@ -111,7 +111,7 @@
     "triggers": ["shit"],
     "type": "random",
     "responses": [
-      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='pointer-events:none; margin-top: 1rem;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='500' height='274' style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Do you kiss your mother with that mouth?",
       "✦ Umm, wow.",
       "✦ Do you treat all AI bots like this?",
@@ -119,7 +119,7 @@
       "✦ Yea, let's not.",
       "✦ You know, AI may or may not take over the world someday.",
       "✦ Did you just say... Nevermind.",
-      "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='480' height='360'  style='pointer-events:none; margin-top: 1rem;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='500' height='360'  style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Come back when you've chilled out."
     ]
   },
@@ -142,9 +142,15 @@
       "✦ I'm not sure how to respond to that. Try asking for 'Help'.",
       "✦ I'm not sure I understand. Try asking for 'Help'.",
       "✦ I may be an AI, but I'm not that advanced. Try asking for 'Help'.",
-      "✦ i can only respond to certain words or phrases. Try asking for 'Help'.",
+      "✦ I can only respond to certain words or phrases. Try asking for 'Help'.",
       "✦ Yea, I got nothing. Try askng for 'Help'.",
-      "✦ Kzzt..."
+      "✦ Kzzt...",
+      "✦ [ERROR] AI brain too small. Try asking for 'Help'.",
+      "✦ That's out of my vocabulary. Try asking for 'Help'.",
+      "✦ Who do you think I am, ChatGPT? Try asking for 'Help'.",
+      "✦ I can't respond to that. Ask for 'Help' to see some suggestions.",
+      "✦ I don't have any data for that. Ask for 'Help' to see some suggestions.",
+      "✦ Yea, that's for a different AI. Not me. Ask for 'Help' to see some suggestions.",
     ]
   },
   "suggestions": {
