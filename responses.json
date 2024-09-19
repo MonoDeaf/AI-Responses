@@ -111,8 +111,8 @@
     "triggers": ["i love you"],
     "type": "random",
     "responses": [
-      "✦ <div><iframe src='https://giphy.com/embed/WWS0oI0U3DJDXrHRIn' width='500' height='317' style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
-      "✦ Oh, come here, you! <div><iframe src='https://giphy.com/embed/26xBFT1F9BgskEvTO' width='500' height='317' style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ <div><iframe src='https://giphy.com/embed/WWS0oI0U3DJDXrHRIn' width='500' height='317' style='border-radius:12px; pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ Oh, come here, you! <div><iframe src='https://giphy.com/embed/26xBFT1F9BgskEvTO' width='500' height='317' style='border-radius:12px; pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ I LOVE YOU TOO ❤❤❤",
       "✦ Aww, I love you too!"
     ]
@@ -121,7 +121,7 @@
     "triggers": ["fuck"],
     "type": "random",
     "responses": [
-      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='500' height='274' style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='500' height='274' style='border-radius:12px; pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Do you kiss your mother with that mouth?",
       "✦ Umm, wow.",
       "✦ Do you treat all AI bots like this?",
@@ -129,7 +129,7 @@
       "✦ Yea, let's not.",
       "✦ You know, AI may or may not take over the world someday.",
       "✦ Did you just say... Nevermind.",
-      "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='500' height='360'  style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='500' height='360'  style='border-radius:12px; pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Come back when you've chilled out."
     ]
   },
@@ -137,7 +137,7 @@
     "triggers": ["shit"],
     "type": "random",
     "responses": [
-      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='500' height='274' style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='500' height='274' style='border-radius:12px; pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Do you kiss your mother with that mouth?",
       "✦ Umm, wow.",
       "✦ Do you treat all AI bots like this?",
@@ -145,7 +145,7 @@
       "✦ Yea, let's not.",
       "✦ You know, AI may or may not take over the world someday.",
       "✦ Did you just say... Nevermind.",
-      "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='500' height='360'  style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='500' height='360'  style='border-radius:12px; pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Come back when you've chilled out."
     ]
   },
