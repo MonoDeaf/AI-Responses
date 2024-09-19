@@ -5,7 +5,6 @@
   },
   "hello": {
     "triggers": ["hello"],
-    "triggers": ["hey"],
     "response": "✦ Hi there. How can I help you today?"
   },
   "blck cld collective": {
