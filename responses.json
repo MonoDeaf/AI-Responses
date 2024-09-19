@@ -15,6 +15,10 @@
     "triggers": ["whats up"],
     "response": "✦ Chyo. Whatchya need?"
   },
+  "who are you": {
+    "triggers": ["who are you"],
+    "response": "✦ I am MonoDeaf's assistant. Here to help you with anything... MonoDeaf related, of course."
+  },
   "blck cld collective": {
     "triggers": ["blck cld collective"],
     "response": "✦ BLCK CLD COLLECTIVE is a community initiated record label started by MonoDeaf and 3 close friends, embarking on a sonic journey to shine light on underground and remarkable artists. You can find its website <a href='https://blckcldcollective.com' target='_blank'>here</a>."
@@ -26,6 +30,10 @@
   "ai": {
     "triggers": ["ai"],
     "response": "✦ While I am a special AI designed for and by MonoDeaf, I am not your typical AI, like ChatGPT or Gemini. I simply respond to various words and phrases that users may use to know more about MonoDeaf, along with some fun and quirky activities as well. This way, I don't have to rely on API's and servers to help users."
+  },
+  "chatgpt": {
+    "triggers": ["chatgpt"],
+    "response": "✦ Nope. No ChatGPT here."
   },
   "epk": {
     "triggers": ["epk"],
@@ -73,7 +81,7 @@
   },
   "music": {
     "triggers": ["music"],
-    "response": "✦ Here are some of MonoDeaf's greatest releases on Spotify. <div><iframe style='border-radius:12px; margin-top: 1rem; max-width: ;100%' src='https://open.spotify.com/embed/artist/69SwCixKIgLsgeSbt2V5M6?utm_source=generator&theme=0' width='500px' height='450px' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe></div>"
+    "response": "✦ Here are some of MonoDeaf's greatest releases on Spotify. <div><iframe style='border-radius:12px; margin-top: 1rem; max-width: 100%;' src='https://open.spotify.com/embed/artist/69SwCixKIgLsgeSbt2V5M6?utm_source=generator&theme=0' width='500px' height='450px' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe></div>"
   },
   "releases": {
     "triggers": ["releases"],
@@ -105,6 +113,16 @@
       "✦ Did you just say... Nevermind.",
       "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='500' height='360'  style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Come back when you've chilled out."
+    ]
+  },
+  "i love you": {
+    "triggers": ["i love you"],
+    "type": "random",
+    "responses": [
+      "✦ <div><iframe src='https://giphy.com/embed/WWS0oI0U3DJDXrHRIn' width='500' height='317' style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ Oh, come here, you! <div><iframe src='https://giphy.com/embed/26xBFT1F9BgskEvTO' width='500' height='317' style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ I LOVE YOU TOO ❤❤❤",
+      "✦ Aww, I love you too!"
     ]
   },
   "shit": {
