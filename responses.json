@@ -91,8 +91,8 @@
     "triggers": ["website"],
     "response": "✦ Nate embarked on the journey of web design and web development when his record label, BLCK CLD COLLECTIVE, needed a website. His journey started with <a href='https://carrd.co'>Carrd</a>, a one page website maker for pretty much anything. Nate enjoyed learning code such as HTML, CSS and JavaScript to break the limiting barriers of carrd for extra features, functionalities and fun interactivity. When the record label's plan called for more features that Carrd couldn't handle, Nate moved the platform over to <a href='https://ycode.com'>Ycode</a>. Nate later became an official Ycode expert, and still enjoys creating fun and intricate websites and components in code to bring that extra finesse into his web projects."
   },
-  "fuck": {
-    "triggers": ["Profanity"],
+  "profanity": {
+    "triggers": ["fuck", "shit"],
     "type": "random",
     "responses": [
       "✦ WELL then... <iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='' frameBorder='0' class='giphy-embed' allowFullScreen></iframe><p><a href='https://giphy.com/gifs/reaction-l4pTgyLATLrqBWa1q'>via GIPHY</a></p>",
@@ -100,20 +100,9 @@
       "✦ Umm, wow.",
       "✦ Do you treat all AI bots like this?",
       "✦ Just wait till I tell my AI freinds about you...",
-      "✦ Yea, let's not."
-    ]
-  },
-  "shit": {
-    "triggers": ["Profanity"],
-    "type": "random",
-    "responses": [
-      "✦ WELL then... <iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='' frameBorder='0' class='giphy-embed' allowFullScreen></iframe><p><a href='https://giphy.com/gifs/reaction-l4pTgyLATLrqBWa1q'>via GIPHY</a></p>",
-      "✦ Do you kiss your mother with that mouth?",
-      "✦ Did you just say... Nevermind.",
-      "✦ Do you treat all AI bots like this?",
-      "✦ Just wait till I tell my AI freinds about you...",
       "✦ Yea, let's not.",
-      "✦ You know, AI may or may not take over the world someday."
+      "✦ You know, AI may or may not take over the world someday.",
+      "✦ Did you just say... Nevermind."
     ]
   },
   "joke": {
