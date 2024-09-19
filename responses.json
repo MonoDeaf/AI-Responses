@@ -28,7 +28,7 @@
     "response": "✦ BLCK CLD COLLECTIVE is a community initiated record label started by MonoDeaf and 3 close friends, embarking on a sonic journey to shine light on underground and remarkable artists. You can find its website <a href='https://blckcldcollective.com' target='_blank'>here</a>."
   },
   "ai": {
-    "triggers": ["ai"],
+    "triggers": ["ai "],
     "response": "✦ While I am a special AI designed for and by MonoDeaf, I am not your typical AI, like ChatGPT or Gemini. I simply respond to various words and phrases that users may use to know more about MonoDeaf, along with some fun and quirky activities as well. This way, I don't have to rely on API's and servers to help users."
   },
   "chatgpt": {
