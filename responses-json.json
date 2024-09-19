@@ -40,7 +40,7 @@
     "response": "✦ You're welcome. Is there anything else I can help with?"
   },
   "joke": {
-    "triggers": ["joke", "tell me a joke"],
+    "triggers": ["joke"],
     "response": [
       "✦ Why can't DJs go fishing? They always drop the bass.",
       "✦ How do you find a DJ on the internet? Wiki Wiki Wikipedia.",
@@ -55,7 +55,7 @@
     "response": "✦ You can send a message to MonoDeaf on this page here: <p><a target='_blank' href='https://monotest3.carrd.co/#contact'>https://monotest3.carrd.co/#contact</a></p>"
   },
   "music": {
-    "triggers": ["music", "releases", "monodeafs releases", "monodeafs music", "monodeaf's music", "monodeaf's releases", "monodeafs songs", "tracks"],
+    "triggers": ["music", "releases", "tracks"],
     "response": "✦ Here are some of MonoDeaf's greatest releases on Spotify. <div><iframe style='border-radius:12px; margin-top: 1rem;' src='https://open.spotify.com/embed/artist/69SwCixKIgLsgeSbt2V5M6?utm_source=generator&theme=0' width='100%' height='450px' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe></div>"
   },
   "web design": {
