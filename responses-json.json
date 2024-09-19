@@ -28,11 +28,11 @@
     "response": "✦ MonoDeaf has collected his impressive list of milestones. <dl><dt>Collaborations</dt><dd>MonoDeaf has worked with many talented artists, such as Cozmoe, jjjacksen, and more.</dd><dt>Metapop Community Mentor</dt><dd>MonoDeaf was a grand prize winner of the Feedback challenge on Metapop (Acquired by Native Instruments), scoring Native Instruments 'Komplete 13 Ultimate' to his arsenal, and was accepted as the Metapop Community Mentor up until Metapop was unfortunately sunsetted by Native Instruments in 2021.</dd><dt>Stream Milestones</dt><dd><p>MonoDeaf - FUKIT reached 2,500 streams.</p><p>MonoDeaf & Cozmoe - You Will Know Me reached 7,500 streams.</p></dd></dl>"
   },
   "about": {
-    "triggers": ["about", "who is monodeaf", "monodeaf info"],
+    "triggers": ["about"],
     "response": "✦ Nate Sterling, also known as MonoDeaf, is a half-deaf electronic music producer."
   },
   "manager": {
-    "triggers": ["manager", "monodeafs manager"],
+    "triggers": ["manager"],
     "response": "✦ At this time, MonoDeaf does not have a manager. If you are interested, you may leave a message <a href='https://monotest3.carrd.co/#contact'>here</a>"
   },
   "thanks": {
