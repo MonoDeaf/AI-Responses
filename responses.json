@@ -48,6 +48,7 @@
     "response": "✦ Sure thing. Is there anything else I can help with?"
   },
   "joke": {
+    "triggers": ["joke"],
     "type": "random",
     "responses": [
       "✦ Why can't DJs go fishing? They always drop the bass.",
