@@ -31,6 +31,10 @@
     "triggers": ["about", "who is monodeaf", "monodeaf info"],
     "response": "✦ Nate Sterling, also known as MonoDeaf, is a half-deaf electronic music producer."
   },
+  "manager": {
+    "triggers": ["manager", "monodeafs manager"],
+    "response": "✦ At this time, MonoDeaf does not have a manager. If you are interested, you may leave a message <a href='https://monotest3.carrd.co/#contact'>here</a>"
+  },
   "thanks": {
     "triggers": ["thanks", "thank you"],
     "response": "✦ You're welcome. Is there anything else I can help with?"
