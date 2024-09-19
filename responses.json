@@ -103,6 +103,19 @@
       "✦ Yea, let's not."
     ]
   },
+  "shit": {
+    "triggers": ["Profanity"],
+    "type": "random",
+    "responses": [
+      "✦ WELL then... <iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='' frameBorder='0' class='giphy-embed' allowFullScreen></iframe><p><a href='https://giphy.com/gifs/reaction-l4pTgyLATLrqBWa1q'>via GIPHY</a></p>",
+      "✦ Do you kiss your mother with that mouth?",
+      "✦ Umm, wow.",
+      "✦ Do you treat all AI bots like this?",
+      "✦ Just wait till I tell my AI freinds about you...",
+      "✦ Yea, let's not.",
+      "✦ You know, AI may or may not take over the world someday."
+    ]
+  },
   "joke": {
     "triggers": ["joke"],
     "type": "random",
