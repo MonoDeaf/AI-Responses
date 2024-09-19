@@ -20,8 +20,8 @@
     "response": "✦ Here is MonoDeaf's EPK [EPK would be here... IF I HAD ONE]"
   },
   "bye": {
-    "triggers": ["bye", "goodbye", "see you"],
-    "response": "✦ Have a nice day."
+    "triggers": ["bye", "goodbye", "see ya", "goodnight"],
+    "response": "✦ Have a good one!"
   },
   "achievements": {
     "triggers": ["achievements", "milestones"],
