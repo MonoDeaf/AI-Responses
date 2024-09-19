@@ -77,11 +77,11 @@
   },
   "releases": {
     "triggers": ["releases"],
-    "response": "✦ Here are some of MonoDeaf's greatest releases on Spotify. <div><iframe style='border-radius:12px; margin-top: 1rem;' src='https://open.spotify.com/embed/artist/69SwCixKIgLsgeSbt2V5M6?utm_source=generator&theme=0' width='100%' height='450px' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe></div>"
+    "response": "✦ Here are some of MonoDeaf's greatest releases on Spotify. <div><iframe style='border-radius:12px; margin-top: 1rem; max-width: 100%;' src='https://open.spotify.com/embed/artist/69SwCixKIgLsgeSbt2V5M6?utm_source=generator&theme=0' width='500px' height='450px' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe></div>"
   },
   "songs": {
     "triggers": ["songs"],
-    "response": "✦ Here are some of MonoDeaf's greatest releases on Spotify. <div><iframe style='border-radius:12px; margin-top: 1rem;' src='https://open.spotify.com/embed/artist/69SwCixKIgLsgeSbt2V5M6?utm_source=generator&theme=0' width='100%' height='450px' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe></div>"
+    "response": "✦ Here are some of MonoDeaf's greatest releases on Spotify. <div><iframe style='border-radius:12px; margin-top: 1rem; max-width: 100%;' src='https://open.spotify.com/embed/artist/69SwCixKIgLsgeSbt2V5M6?utm_source=generator&theme=0' width='100%' height='450px' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe></div>"
   },
   "web design": {
     "triggers": ["web design"],
