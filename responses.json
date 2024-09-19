@@ -1,7 +1,7 @@
 {
   "help": {
     "triggers": ["help"],
-    "response": "✦ Sure Thing. Here are some words and phrases I look for to respond accordingly: <dl><dt>Hello, Hey, Whats Up</dt><dd>Say Hi!</dd><dt>About</dt><dd>Learn more about MonoDeaf</dd><dt>AI</dt><dd>Explanation of this AI</dd><dt>Who are you</dt><dd>Question the AI</dd><dt>Joke</dt><dd>Receive a random joke</dd><dt>BLCK CLD COLLECTIVE, BLCKCCLDCOLLECTIVE</dt><dd>Learn more about BLCK CLD COLLECTIVE</dd><dt>Contact, Message</dt><dd>Contact MonoDeaf</dd><dt>Music, Releases, Songs</dt><dd>See MonoDeaf's releases on Spotify</dd><dt>Manager</dt><dd>Current manager</dd><dt>Achievements, Milestones</dt><dd>See MonoDeaf's list of milestones</dd><dt>EPK</dt><dd>View and download MonoDeaf's EPK</dd><dt>Web Design, Website</dt><dd>Learn more about MonoDeaf's journey into web-design.</dd><dt>Thanks, Thank you</dt><dd>Give appreciation</dd><dt>I love you</dt><dd>Give love</dd><dt>Goodbye, Bye, See ya</dt><dd>Say goodbye</dd><dt style='color:#fcba03;'>Explicit words</dt><dd>This AI assistant is not a fan of explicit words, so refrain from using them.</dd></dl>"
+    "response": "✦ Sure Thing. Here are some words and phrases I look for to respond accordingly: <dl><dt>Hello, Hey, Whats Up</dt><dd>Say Hi!</dd><dt>About MonoDeaf, Who is MonoDeaf</dt><dd>Learn more about MonoDeaf</dd><dt>AI</dt><dd>Explanation of this AI</dd><dt>Who are you</dt><dd>Question the AI</dd><dt>Joke</dt><dd>Receive a random joke</dd><dt>BLCK CLD COLLECTIVE, BLCKCCLDCOLLECTIVE</dt><dd>Learn more about BLCK CLD COLLECTIVE</dd><dt>Contact, Message</dt><dd>Contact MonoDeaf</dd><dt>Music, Releases, Songs</dt><dd>See MonoDeaf's releases on Spotify</dd><dt>Manager</dt><dd>Current manager</dd><dt>Achievements, Milestones</dt><dd>See MonoDeaf's list of milestones</dd><dt>EPK</dt><dd>View and download MonoDeaf's EPK</dd><dt>Web Design, Website</dt><dd>Learn more about MonoDeaf's journey into web-design.</dd><dt>Thanks, Thank you</dt><dd>Give appreciation</dd><dt>I love you</dt><dd>Give love</dd><dt>Goodbye, Bye, See ya</dt><dd>Say goodbye</dd><dt style='color:#fcba03;'>Explicit words</dt><dd>This AI assistant is not a fan of explicit words, so refrain from using them.</dd></dl>"
   },
   "hello": {
     "triggers": ["hello"],
@@ -53,14 +53,18 @@
   },
   "achievements": {
     "triggers": ["achievements"],
-    "response": "✦ MonoDeaf has collected his impressive list of milestones. <dl><dt>Collaborations</dt><dd>MonoDeaf has worked with many talented artists, such as Cozmoe, jjjacksen, and more.</dd><dt>Metapop Community Mentor</dt><dd>MonoDeaf was a grand prize winner of the Feedback challenge on Metapop (Acquired by Native Instruments), scoring Native Instruments 'Komplete 13 Ultimate' to his arsenal, and was accepted as the Metapop Community Mentor up until Metapop was unfortunately sunsetted by Native Instruments in 2021.</dd><dt>Stream Milestones</dt><dd><p>MonoDeaf - FUKIT reached 2,500 streams.</p><p>MonoDeaf & Cozmoe - You Will Know Me reached 7,500 streams.</p></dd></dl>"
+    "response": "✦ MonoDeaf has collected his impressive list of milestones. <dl><dt>Collaborations</dt><dd>MonoDeaf has worked with many talented artists, such as Cozmoe, jjjacksen, and more.</dd><dt>Metapop Community Mentor</dt><dd>MonoDeaf was a grand prize winner of the Feedback challenge on Metapop (Acquired by Native Instruments), scoring Native Instruments 'Komplete 13 Ultimate' to his arsenal, and was accepted as the Metapop Community Mentor up until Metapop was unfortunately sunsetted by Native Instruments in 2021.</dd><dt>Stream Milestones</dt><dd><p>MonoDeaf - <a target='_blank' href='https://open.spotify.com/track/2oLZb2OjSg2z58CVE09rnY'>FUKIT</a> reached 2,500 streams.</p><p>MonoDeaf & Cozmoe - <a target='_blank' href='https://open.spotify.com/track/664TEvi1oGeHaZGmH8O9ZG'>You Will Know Me</a> reached 7,500 streams.</p></dd></dl>"
   },
   "milestones": {
     "triggers": ["milestones"],
-    "response": "✦ MonoDeaf has collected his impressive list of milestones. <dl><dt>Collaborations</dt><dd>MonoDeaf has worked with many talented artists, such as Cozmoe, jjjacksen, and more.</dd><dt>Metapop Community Mentor</dt><dd>MonoDeaf was a grand prize winner of the Feedback challenge on Metapop (Acquired by Native Instruments), scoring Native Instruments 'Komplete 13 Ultimate' to his arsenal, and was accepted as the Metapop Community Mentor up until Metapop was unfortunately sunsetted by Native Instruments in 2021.</dd><dt>Stream Milestones</dt><dd><p>MonoDeaf - FUKIT reached 2,500 streams.</p><p>MonoDeaf & Cozmoe - You Will Know Me reached 7,500 streams.</p></dd></dl>"
+    "response": "✦ MonoDeaf has collected his impressive list of milestones. <dl><dt>Collaborations</dt><dd>MonoDeaf has worked with many talented artists, such as Cozmoe, jjjacksen, and more.</dd><dt>Metapop Community Mentor</dt><dd>MonoDeaf was a grand prize winner of the Feedback challenge on Metapop (Acquired by Native Instruments), scoring Native Instruments 'Komplete 13 Ultimate' to his arsenal, and was accepted as the Metapop Community Mentor up until Metapop was unfortunately sunsetted by Native Instruments in 2021.</dd><dt>Stream Milestones</dt><dd><p>MonoDeaf - <a target='_blank' href='https://open.spotify.com/track/2oLZb2OjSg2z58CVE09rnY'>FUKIT</a> reached 2,500 streams.</p><p>MonoDeaf & Cozmoe - <a target='_blank' href='https://open.spotify.com/track/664TEvi1oGeHaZGmH8O9ZG'>You Will Know Me</a> reached 7,500 streams.</p></dd>></dl>"
   },
-  "about": {
-    "triggers": ["about"],
+  "about monodeaf": {
+    "triggers": ["about monodeaf"],
+    "response": "✦ Half-Deaf producer, Nate Sterling, from Wayne, Ohio, suffered permanent hearing loss in his right ear at a young age from a car accident, but still pursues his dream in electronic music."
+  },
+  "who is monodeaf": {
+    "triggers": ["who is monodeaf"],
     "response": "✦ Half-Deaf producer, Nate Sterling, from Wayne, Ohio, suffered permanent hearing loss in his right ear at a young age from a car accident, but still pursues his dream in electronic music."
   },
   "manager": {
