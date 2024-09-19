@@ -1,7 +1,7 @@
 {
   "help": {
     "triggers": ["help"],
-    "response": "✦ Sure Thing. Here are some words and phrases I look for to respond accordingly: <dl><dt>Hello</dt><dd>Say Hi!</dd><dt>Hello, Hey, Whats Up</dt><dd>Say Hi!</dd><dt>About</dt><dd>Learn more about MonoDeaf</dd><dt>AI</dt><dd>Explanation of this AI</dd><dt>Joke</dt><dd>Receive a random joke</dd><dt>BLCK CLD COLLECTIVE, BLCKCCLDCOLLECTIVE</dt><dd>Learn more about BLCK CLD COLLECTIVE</dd><dt>Contact, Message</dt><dd>Contact MonoDeaf</dd><dt>Music, Releases, Songs</dt><dd>See MonoDeaf's releases on Spotify</dd><dt>Manager</dt><dd>Current manager</dd><dt>Achievements, Milestones</dt><dd>See MonoDeaf's list of milestones</dd><dt>EPK</dt><dd>View and download MonoDeaf's EPK</dd><dt>Web Design, Website</dt><dd>Learn more about MonoDeaf's journey into web-design.</dd><dt>Thanks, Thank You</dt><dd>Give welcome</dd><dt>Bye, See ya</dt><dd>Say goodbye</dd></dl>"
+    "response": "✦ Sure Thing. Here are some words and phrases I look for to respond accordingly: <dl><dt>Hello, Hey, Whats Up</dt><dd>Say Hi!</dd><dt>About</dt><dd>Learn more about MonoDeaf</dd><dt>AI</dt><dd>Explanation of this AI</dd><dt>Joke</dt><dd>Receive a random joke</dd><dt>BLCK CLD COLLECTIVE, BLCKCCLDCOLLECTIVE</dt><dd>Learn more about BLCK CLD COLLECTIVE</dd><dt>Contact, Message</dt><dd>Contact MonoDeaf</dd><dt>Music, Releases, Songs</dt><dd>See MonoDeaf's releases on Spotify</dd><dt>Manager</dt><dd>Current manager</dd><dt>Achievements, Milestones</dt><dd>See MonoDeaf's list of milestones</dd><dt>EPK</dt><dd>View and download MonoDeaf's EPK</dd><dt>Web Design, Website</dt><dd>Learn more about MonoDeaf's journey into web-design.</dd><dt>Thanks, Thank You</dt><dd>Give welcome</dd><dt>Bye, See ya</dt><dd>Say goodbye</dd></dl>"
   },
   "hello": {
     "triggers": ["hello"],
@@ -49,7 +49,7 @@
   },
   "about": {
     "triggers": ["about"],
-    "response": "✦ Nate Sterling, also known as MonoDeaf, is a half-deaf electronic music producer."
+    "response": "✦ Half-Deaf producer, Nate Sterling, from Wayne, Ohio, suffered permanent hearing loss in his right ear at a young age from a car accident, but still pursues his dream in electronic music."
   },
   "manager": {
     "triggers": ["manager"],
