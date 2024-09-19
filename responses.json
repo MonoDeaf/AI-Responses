@@ -95,7 +95,7 @@
     "triggers": ["fuck"],
     "type": "random",
     "responses": [
-      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='pointer-events:none; margin-top: 1rem;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Do you kiss your mother with that mouth?",
       "✦ Umm, wow.",
       "✦ Do you treat all AI bots like this?",
@@ -109,7 +109,7 @@
     "triggers": ["shit"],
     "type": "random",
     "responses": [
-      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='pointer-events:none; margin-top: 1rem;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Do you kiss your mother with that mouth?",
       "✦ Umm, wow.",
       "✦ Do you treat all AI bots like this?",
