@@ -81,6 +81,17 @@
       "✦ Yea, I got nothing. Try askng for 'Help'.",
       "✦ Kzzt..."
     ]
+  },
+  "suggestions": {
+    "triggers": [],
+    "response": [
+      "Help",
+      "Show MonoDeaf's music",
+      "More about MonoDeaf",
+      "Achievements",
+      "Are you an AI?",
+      "Tell me a joke",
+      "Get EPK"
+    ]
   }
-  
 }
