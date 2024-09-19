@@ -95,7 +95,7 @@
     "triggers": ["fuck"],
     "type": "random",
     "responses": [
-      "✦ WELL then... <iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='' frameBorder='0' class='giphy-embed' allowFullScreen></iframe><p><a href='https://giphy.com/gifs/reaction-l4pTgyLATLrqBWa1q'>via GIPHY</a></p>",
+      "✦ WELL then... \n<iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='' frameBorder='0' class='giphy-embed' allowFullScreen></iframe>",
       "✦ Do you kiss your mother with that mouth?",
       "✦ Umm, wow.",
       "✦ Do you treat all AI bots like this?",
@@ -109,7 +109,7 @@
     "triggers": ["shit"],
     "type": "random",
     "responses": [
-      "✦ WELL then... <iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='' frameBorder='0' class='giphy-embed' allowFullScreen></iframe><p><a href='https://giphy.com/gifs/reaction-l4pTgyLATLrqBWa1q'>via GIPHY</a></p>",
+      "✦ WELL then... \n<iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='480' height='274' style='' frameBorder='0' class='giphy-embed' allowFullScreen></iframe>",
       "✦ Do you kiss your mother with that mouth?",
       "✦ Umm, wow.",
       "✦ Do you treat all AI bots like this?",
