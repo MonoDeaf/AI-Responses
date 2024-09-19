@@ -71,7 +71,15 @@
     "response": "✦ Nate embarked on the journey of web design and web development when his record label, BLCK CLD COLLECTIVE, needed a website. His journey started with <a href='https://carrd.co'>Carrd</a>, a one page website maker for pretty much anything. Nate enjoyed learning code such as HTML, CSS and JavaScript to break the limiting barriers of carrd for extra features, functionalities and fun interactivity. When the record label's plan called for more features that Carrd couldn't handle, Nate moved the platform over to <a href='https://ycode.com'>Ycode</a>. Nate later became an official Ycode expert, and still enjoys creating fun and intricate websites and components in code to bring that extra finesse into his web projects."
   },
   "none": {
-    "response": "✦ I'm not sure how to respond to that. Try asking me for 'Help' to see what I can do."
+    "triggers": ["none"],
+    "type": "random",
+    "responses": [
+      "✦ I'm not sure how to respond to that. Try asking for 'Help'.",
+      "✦ I'm not sure I understand. Try asking for 'Help'.",
+      "✦ I may be an AI, but I'm not that advanced. Try asking for 'Help'.",
+      "✦ i can only respond to certain words or phrases. Try asking for 'Help'.",
+      "✦ Yea, I got nothing. Try askng for 'Help'.",
+      "✦ Kzzt..."
   },
   "suggestions": {
     "triggers": [],
