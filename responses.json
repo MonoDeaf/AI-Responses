@@ -1,9 +1,11 @@
 {
   "help": {
+    "triggers": ["help"],
     "response": "✦ Sure Thing. Here are some words and phrases I look for to respond accordingly: <dl><dt>Hello</dt><dd>Say Hi!</dd><dt>About</dt><dd>Learn more about MonoDeaf</dd><dt>AI</dt><dd>Explanation of this AI</dd><dt>Joke</dt><dd>Receive a random joke</dd><dt>BLCK CLD COLLECTIVE</dt><dd>Learn more about BLCK CLD COLLECTIVE</dd><dt>Contact, Message</dt><dd>Contact MonoDeaf</dd><dt>Music, Releases, Songs</dt><dd>See MonoDeaf's releases on Spotify</dd><dt>Achievements</dt><dd>See MonoDeaf's list of milestones</dd><dt>EPK</dt><dd>View and download MonoDeaf's EPK</dd><dt>Web Design</dt><dd>Learn more about MonoDeaf's journey into web-design.</dd></dl>"
   },
   "hello": {
-    "triggers": ["hello", "hi", "hey", "yo"],
+    "triggers": ["hello"],
+    "triggers": ["hey"],
     "response": "✦ Hi there. How can I help you today?"
   },
   "blck cld collective": {
