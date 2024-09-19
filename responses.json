@@ -2,39 +2,64 @@
   "help": {
     "response": "✦ Sure Thing. Here are some words and phrases I look for to respond accordingly: <dl><dt>Hello</dt><dd>Say Hi!</dd><dt>About</dt><dd>Learn more about MonoDeaf</dd><dt>AI</dt><dd>Explanation of this AI</dd><dt>Joke</dt><dd>Receive a random joke</dd><dt>BLCK CLD COLLECTIVE</dt><dd>Learn more about BLCK CLD COLLECTIVE</dd><dt>Contact, Message</dt><dd>Contact MonoDeaf</dd><dt>Music, Releases, Songs</dt><dd>See MonoDeaf's releases on Spotify</dd><dt>Achievements</dt><dd>See MonoDeaf's list of milestones</dd><dt>EPK</dt><dd>View and download MonoDeaf's EPK</dd><dt>Web Design</dt><dd>Learn more about MonoDeaf's journey into web-design.</dd></dl>"
   },
-  "hello", "hi", "hey", "yo": {
+  "hello": {
+    "response": "✦ Hey there. How can I help you today?"
+  },
+  "hi": {
     "response": "✦ Hi there. How can I help you today?"
   },
+  "hey": {
+    "response": "✦ Hey hey. How can I help you today?"
+  },
+  "yo": {
+    "response": "✦ Chyo. Whatchya need?"
+  },
   "blck cld collective": {
-    "triggers": ["blck cld collective", "blckcld", "collective"],
+    "response": "✦ BLCK CLD COLLECTIVE is a community initiated record label started by MonoDeaf and 3 close friends, embarking on a sonic journey to shine light on underground and remarkable artists. You can find its website <a href='https://blckcldcollective.com' target='_blank'>here</a>."
+  },
+  "blckcld": {
+    "response": "✦ BLCK CLD COLLECTIVE is a community initiated record label started by MonoDeaf and 3 close friends, embarking on a sonic journey to shine light on underground and remarkable artists. You can find its website <a href='https://blckcldcollective.com' target='_blank'>here</a>."
+  },
+  "collective": {
     "response": "✦ BLCK CLD COLLECTIVE is a community initiated record label started by MonoDeaf and 3 close friends, embarking on a sonic journey to shine light on underground and remarkable artists. You can find its website <a href='https://blckcldcollective.com' target='_blank'>here</a>."
   },
   "ai": {
-    "triggers": ["ai", "artificial intelligence"],
+    "response": "✦ While I am a special AI designed for and by MonoDeaf, I am not your typical AI, like ChatGPT or Gemini. I simply respond to various words and phrases that users may use to know more about MonoDeaf, along with some fun and quirky activities as well. This way, I don't have to rely on API's and servers to help users."
+  },
+  "artificial intelligence": {
     "response": "✦ While I am a special AI designed for and by MonoDeaf, I am not your typical AI, like ChatGPT or Gemini. I simply respond to various words and phrases that users may use to know more about MonoDeaf, along with some fun and quirky activities as well. This way, I don't have to rely on API's and servers to help users."
   },
   "epk": {
-    "triggers": ["epk"],
     "response": "✦ Here is MonoDeaf's EPK [EPK would be here... IF I HAD ONE]"
   },
   "bye": {
-    "triggers": ["bye", "goodbye", "see ya", "goodnight"],
+    "response": "✦ Have a good one!"
+  },
+  "goodbye": {
+    "response": "✦ Have a good one!"
+  },
+  "see ya": {
+    "response": "✦ Have a good one!"
+  },
+  "goodnight": {
     "response": "✦ Have a good one!"
   },
   "achievements": {
-    "triggers": ["achievements", "milestones"],
+    "response": "✦ MonoDeaf has collected his impressive list of milestones. <dl><dt>Collaborations</dt><dd>MonoDeaf has worked with many talented artists, such as Cozmoe, jjjacksen, and more.</dd><dt>Metapop Community Mentor</dt><dd>MonoDeaf was a grand prize winner of the Feedback challenge on Metapop (Acquired by Native Instruments), scoring Native Instruments 'Komplete 13 Ultimate' to his arsenal, and was accepted as the Metapop Community Mentor up until Metapop was unfortunately sunsetted by Native Instruments in 2021.</dd><dt>Stream Milestones</dt><dd><p>MonoDeaf - FUKIT reached 2,500 streams.</p><p>MonoDeaf & Cozmoe - You Will Know Me reached 7,500 streams.</p></dd></dl>"
+  },
+  "milestones": {
     "response": "✦ MonoDeaf has collected his impressive list of milestones. <dl><dt>Collaborations</dt><dd>MonoDeaf has worked with many talented artists, such as Cozmoe, jjjacksen, and more.</dd><dt>Metapop Community Mentor</dt><dd>MonoDeaf was a grand prize winner of the Feedback challenge on Metapop (Acquired by Native Instruments), scoring Native Instruments 'Komplete 13 Ultimate' to his arsenal, and was accepted as the Metapop Community Mentor up until Metapop was unfortunately sunsetted by Native Instruments in 2021.</dd><dt>Stream Milestones</dt><dd><p>MonoDeaf - FUKIT reached 2,500 streams.</p><p>MonoDeaf & Cozmoe - You Will Know Me reached 7,500 streams.</p></dd></dl>"
   },
   "about": {
-    "triggers": ["about"],
     "response": "✦ Nate Sterling, also known as MonoDeaf, is a half-deaf electronic music producer."
   },
   "manager": {
-    "triggers": ["manager"],
     "response": "✦ At this time, MonoDeaf does not have a manager. If you are interested, you may leave a message <a href='https://monotest3.carrd.co/#contact'>here</a>."
   },
   "thanks": {
-    "triggers": ["thanks", "thank you"],
+    "response": "✦ You're welcome. Is there anything else I can help with?"
+  },
+  "thank you": {
     "response": "✦ You're welcome. Is there anything else I can help with?"
   },
   "joke": {
@@ -49,19 +74,30 @@
     ]
   },
   "contact": {
-    "triggers": ["contact", "message"],
+    "response": "✦ You can send a message to MonoDeaf on this page here: <p><a target='_blank' href='https://monotest3.carrd.co/#contact'>https://monotest3.carrd.co/#contact</a></p>"
+  },
+  "message": {
     "response": "✦ You can send a message to MonoDeaf on this page here: <p><a target='_blank' href='https://monotest3.carrd.co/#contact'>https://monotest3.carrd.co/#contact</a></p>"
   },
   "music": {
-    "triggers": ["music", "releases", "tracks"],
+    "response": "✦ Here are some of MonoDeaf's greatest releases on Spotify. <div><iframe style='border-radius:12px; margin-top: 1rem;' src='https://open.spotify.com/embed/artist/69SwCixKIgLsgeSbt2V5M6?utm_source=generator&theme=0' width='100%' height='450px' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe></div>"
+  },
+  "releases": {
+    "response": "✦ Here are some of MonoDeaf's greatest releases on Spotify. <div><iframe style='border-radius:12px; margin-top: 1rem;' src='https://open.spotify.com/embed/artist/69SwCixKIgLsgeSbt2V5M6?utm_source=generator&theme=0' width='100%' height='450px' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe></div>"
+  },
+  "tracks": {
     "response": "✦ Here are some of MonoDeaf's greatest releases on Spotify. <div><iframe style='border-radius:12px; margin-top: 1rem;' src='https://open.spotify.com/embed/artist/69SwCixKIgLsgeSbt2V5M6?utm_source=generator&theme=0' width='100%' height='450px' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe></div>"
   },
   "web design": {
-    "triggers": ["web design", "website", "web development"],
+    "response": "✦ Nate embarked on the journey of web design and web development when his record label, BLCK CLD COLLECTIVE, needed a website. His journey started with <a href='https://carrd.co'>Carrd</a>, a one page website maker for pretty much anything. Nate enjoyed learning code such as HTML, CSS and JavaScript to break the limiting barriers of carrd for extra features, functionalities and fun interactivity. When the record label's plan called for more features that Carrd couldn't handle, Nate moved the platform over to <a href='https://ycode.com'>Ycode</a>. Nate later became an official Ycode expert, and still enjoys creating fun and intricate websites and components in code to bring that extra finesse into his web projects."
+  },
+  "website": {
+    "response": "✦ Nate embarked on the journey of web design and web development when his record label, BLCK CLD COLLECTIVE, needed a website. His journey started with <a href='https://carrd.co'>Carrd</a>, a one page website maker for pretty much anything. Nate enjoyed learning code such as HTML, CSS and JavaScript to break the limiting barriers of carrd for extra features, functionalities and fun interactivity. When the record label's plan called for more features that Carrd couldn't handle, Nate moved the platform over to <a href='https://ycode.com'>Ycode</a>. Nate later became an official Ycode expert, and still enjoys creating fun and intricate websites and components in code to bring that extra finesse into his web projects."
+  },
+  "web development": {
     "response": "✦ Nate embarked on the journey of web design and web development when his record label, BLCK CLD COLLECTIVE, needed a website. His journey started with <a href='https://carrd.co'>Carrd</a>, a one page website maker for pretty much anything. Nate enjoyed learning code such as HTML, CSS and JavaScript to break the limiting barriers of carrd for extra features, functionalities and fun interactivity. When the record label's plan called for more features that Carrd couldn't handle, Nate moved the platform over to <a href='https://ycode.com'>Ycode</a>. Nate later became an official Ycode expert, and still enjoys creating fun and intricate websites and components in code to bring that extra finesse into his web projects."
   },
   "none": {
-    "triggers": [],
     "response": "✦ I'm not sure how to respond to that. Try asking me for 'Help' to see what I can do."
   },
   "suggestions": {
