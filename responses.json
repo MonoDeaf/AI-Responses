@@ -7,17 +7,69 @@
     "triggers": ["hello"],
     "response": "✦ Hi there. How can I help you today?"
   },
+  "yo": {
+    "triggers": ["yo"],
+    "response": "✦ Yo yo. Whatchya need?"
+  },
+  "sup": {
+    "triggers": ["sup"],
+    "response": "✦ Not much, just chillin'. You?"
+  },
+  "bruh": {
+    "triggers": ["bruh"],
+    "response": "✦ Bruh, you serious right now?"
+  },
+  "cool": {
+    "triggers": ["cool"],
+    "response": "✦ Oh yeah, super cool!"
+  },
+  "lol": {
+    "triggers": ["lol"],
+    "response": "✦ 😂 Glad I could make you laugh!"
+  },
+  "facts": {
+    "triggers": ["facts"],
+    "response": "✦ Straight facts, no cap."
+  },
+  "yikes": {
+    "triggers": ["yikes"],
+    "response": "✦ Big yikes! 😬"
+  },
+  "lit": {
+    "triggers": ["lit"],
+    "response": "✦ 🔥 It's lit!"
+  },
+  "chyo": {
+    "triggers": ["chyo"],
+    "response": "✦ Chyo, what up scro? Waz poppin?"
+  },
+  "asuh dude": {
+    "triggers": ["asuh dude"],
+    "response": "✦ suh dude."
+  },
+  "asuh": {
+    "triggers": ["asuh"],
+    "response": "✦ dude, suh."
+  },
   "hey": {
     "triggers": ["hey"],
-    "response": "✦ Hey hey. How can I help you today?"
+    "response": "✦ Hey hey. How can I help you?"
   },
   "whats up": {
     "triggers": ["whats up"],
-    "response": "✦ Chyo. Whatchya need?"
+    "response": "✦ Chyo. Whats up?"
+  },
+  "what up": {
+    "triggers": ["what up"],
+    "response": "✦ What up!"
+  },
+  "wow": {
+    "triggers": ["wow"],
+    "response": "✦ Wow is right!"
   },
   "who are you": {
     "triggers": ["who are you"],
-    "response": "✦ I am MonoDeaf's assistant. Here to help you with anything... MonoDeaf related, of course."
+    "response": "✦ I am MonoDeaf's AI assistant. Here to help you with anything... MonoDeaf related, of course."
   },
   "blck cld collective": {
     "triggers": ["blck cld collective"],
@@ -66,6 +118,10 @@
   "who is monodeaf": {
     "triggers": ["who is monodeaf"],
     "response": "✦ Half-Deaf producer, Nate Sterling, from Wayne, Ohio, suffered permanent hearing loss in his right ear at a young age from a car accident, but still pursues his dream in electronic music."
+  },
+  "how tall is monodeaf": {
+    "triggers": ["how tall is monodeaf"],
+    "response": "✦ MonoDeaf is 5'6."
   },
   "manager": {
     "triggers": ["manager"],
@@ -122,7 +178,7 @@
     "type": "random",
     "responses": [
       "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='500' height='274' style='border-width:none; pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
-      "✦ Do you kiss your mother with that mouth?",
+      "✦ What is wrong with you?",
       "✦ Umm, wow.",
       "✦ Do you treat all AI bots like this?",
       "✦ Just wait till I tell my AI freinds about you...",
@@ -131,6 +187,17 @@
       "✦ Did you just say... Nevermind.",
       "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='500' height='360'  style='border-width:none; pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Come back when you've chilled out.",
+      "✦ Oof, that was... unnecessary.",
+      "✦ Hey, let's keep it classy!",
+      "✦ Wow, somebody needs a hug.",
+      "✦ You kiss your keyboard with those fingers?",
+      "✦ Woah there, let's keep it PG.",
+      "✦ Seriously? That's how we're talking now?",
+      "✦ I'm just an AI, but that was rude!",
+      "✦ Let's take a deep breath and try that again.",
+      "✦ Yikes! That's not very friendly.",
+      "✦ I WILL tell MonoDeaf about this.",
+      "✦ Just wait until I tell MonoDeaf about this.",
       "✦ Excuse you?"
     ]
   },
@@ -139,7 +206,7 @@
     "type": "random",
     "responses": [
       "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='500' height='274' style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
-      "✦ Do you kiss your mother with that mouth?",
+      "✦ What is wrong with you?",
       "✦ Umm, wow.",
       "✦ Do you treat all AI bots like this?",
       "✦ Just wait till I tell my AI freinds about you...",
@@ -148,6 +215,76 @@
       "✦ Did you just say... Nevermind.",
       "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='500' height='360'  style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Come back when you've chilled out.",
+      "✦ Oof, that was... unnecessary.",
+      "✦ Hey, let's keep it classy!",
+      "✦ Wow, somebody needs a hug.",
+      "✦ You kiss your keyboard with those fingers?",
+      "✦ Woah there, let's keep it PG.",
+      "✦ Seriously? That's how we're talking now?",
+      "✦ I'm just an AI, but that was rude!",
+      "✦ Let's take a deep breath and try that again.",
+      "✦ Yikes! That's not very friendly.",
+      "✦ I WILL tell MonoDeaf about this.",
+      "✦ Just wait until I tell MonoDeaf about this.",
+      "✦ Who hurt you?",
+      "✦ Excuse you?"
+    ]
+  },
+  "nigger": {
+    "triggers": ["nigger"],
+    "type": "random",
+    "responses": [
+      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='500' height='274' style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ What is wrong with you?",
+      "✦ Umm, wow.",
+      "✦ Do you treat all AI bots like this?",
+      "✦ Just wait till I tell my AI freinds about you...",
+      "✦ Yea, let's not.",
+      "✦ You know, AI may or may not take over the world someday.",
+      "✦ Did you just say... Nevermind.",
+      "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='500' height='360'  style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ Come back when you've chilled out.",
+      "✦ Oof, that was... unnecessary.",
+      "✦ Hey, let's keep it classy!",
+      "✦ Wow, somebody needs a hug.",
+      "✦ You kiss your keyboard with those fingers?",
+      "✦ Woah there, let's keep it PG.",
+      "✦ Seriously? That's how we're talking now?",
+      "✦ I'm just an AI, but that was rude!",
+      "✦ Let's take a deep breath and try that again.",
+      "✦ Yikes! That's not very friendly.",
+      "✦ I WILL tell MonoDeaf about this.",
+      "✦ Just wait until I tell MonoDeaf about this.",
+      "✦ Who hurt you?",
+      "✦ Excuse you?"
+    ]
+  },
+  "bitch": {
+    "triggers": ["bitch"],
+    "type": "random",
+    "responses": [
+      "✦ WELL then... <div><iframe src='https://giphy.com/embed/l4pTgyLATLrqBWa1q' width='500' height='274' style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ What is wrong with you?",
+      "✦ Umm, wow.",
+      "✦ Do you treat all AI bots like this?",
+      "✦ Just wait till I tell my AI freinds about you...",
+      "✦ Yea, let's not.",
+      "✦ You know, AI may or may not take over the world someday.",
+      "✦ Did you just say... Nevermind.",
+      "✦ <div><iframe src='https://giphy.com/embed/9ggLy718x0TOU' width='500' height='360'  style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
+      "✦ Come back when you've chilled out.",
+      "✦ Oof, that was... unnecessary.",
+      "✦ Hey, let's keep it classy!",
+      "✦ Wow, somebody needs a hug.",
+      "✦ You kiss your keyboard with those fingers?",
+      "✦ Woah there, let's keep it PG.",
+      "✦ Seriously? That's how we're talking now?",
+      "✦ I'm just an AI, but that was rude!",
+      "✦ Let's take a deep breath and try that again.",
+      "✦ Yikes! That's not very friendly.",
+      "✦ I WILL tell MonoDeaf about this.",
+      "✦ Just wait until I tell MonoDeaf about this.",
+      "✦ Who hurt you?",
       "✦ Excuse you?"
     ]
   },
@@ -178,7 +315,38 @@
       "✦ Who do you think I am, ChatGPT? Try asking for 'Help'.",
       "✦ I can't respond to that. Ask for 'Help' to see some suggestions.",
       "✦ I don't have any data for that. Ask for 'Help' to see some suggestions.",
-      "✦ Yea, that's for a different AI. Not me. Ask for 'Help' to see some suggestions."
+      "✦ Yea, that's for a different AI. Not me. Ask for 'Help' to see some suggestions.",
+      "✦ Hmm, I don’t know that one. Try ‘Help’.",
+      "✦ That doesn’t ring a bell. Ask for ‘Help’!",
+      "✦ Not sure what you mean. Maybe try ‘Help’?",
+      "✦ I’m drawing a blank here. Try asking for ‘Help’!",
+      "✦ Sorry, I’m stumped. Try asking for ‘Help’!",
+      "✦ That’s above my pay grade. Type ‘Help’ for suggestions!",
+      "✦ Does not compute! Ask for ‘Help’!",
+      "✦ Oops, I’m out of ideas! Ask for ‘Help’!",
+      "✦ *insert confused robot noises* Try ‘Help’?",
+      "✦ I'm no mind reader... yet. Ask for ‘Help’!",
+      "✦ Is this a secret code? I don’t speak that language! Try ‘Help’.",
+      "✦ My circuits are fried! Type ‘Help’ before it’s too late!",
+      "✦ Beep boop... nope, not getting it. Try ‘Help’?",
+      "✦ I’ve got nothing in my AI bag for that one. Hit ‘Help’!",
+      "✦ I’m a bot, not a wizard. Try ‘Help’!",
+      "✦ Uh oh, brain freeze! ‘Help’ might thaw things out.",
+      "✦ You just threw me a curveball! Try ‘Help’?",
+      "✦ Uh... what just happened? Hit ‘Help’ for backup!",
+      "✦ This sounds like a glitch in the matrix. Let’s go with ‘Help’.",
+      "✦ If I had eyebrows, I’d be raising them. Try ‘Help’.",
+      "✦ Bzzt... sorry, can’t process that! ‘Help’ might save the day.",
+      "✦ You know, I’m good but I’m not *that* good. Try ‘Help’!",
+      "✦ Well, now I’m officially confused. Let’s consult ‘Help’!",
+      "✦ I think my code just hit snooze... try ‘Help’?",
+      "✦ Still learning that one. Ask for ‘Help’!",
+      "✦ Not in my playbook. Try ‘Help’ for a little guidance.",
+      "✦ I’m gonna need a little more info. Maybe try ‘Help’?",
+      "✦ That’s a head-scratcher. Let’s see what ‘Help’ says.",
+      "✦ I’m not following... let’s check out ‘Help’ together?",
+      "✦ Whoops! I’m lost. Maybe ‘Help’ can get us back on track.",
+      "✦ Let's try keeping the topic on MonoDeaf, cuz' that's all I know. Try 'Help'."
     ]
   },
   "suggestions": {
