@@ -83,6 +83,10 @@
     "triggers": ["what's your name"],
     "response": "✦ I don't really have a name... at least... right now."
   },
+  "are you real": {
+    "triggers": ["are you real"],
+    "response": "✦ No... but I like to think I am!"
+  },
   "blck cld collective": {
     "triggers": ["blck cld collective"],
     "response": "✦ BLCK CLD COLLECTIVE is an independent record label co-founded by MonoDeaf and close friends. It’s a home for innovative electronic music, pushing boundaries and supporting emerging artists. You can find its website <a href='https://blckcldcollective.com' target='_blank'>here</a>."
