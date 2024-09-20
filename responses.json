@@ -75,6 +75,14 @@
     "triggers": ["who are you"],
     "response": "✦ I am MonoDeaf's AI assistant. Here to help you with anything... MonoDeaf related, of course."
   },
+  "whats your name": {
+    "triggers": ["whats your name"],
+    "response": "✦ I don't really have a name... at least... right now."
+  },
+  "what's your name": {
+    "triggers": ["what's your name"],
+    "response": "✦ I don't really have a name... at least... right now."
+  },
   "blck cld collective": {
     "triggers": ["blck cld collective"],
     "response": "✦ BLCK CLD COLLECTIVE is an independent record label co-founded by MonoDeaf and close friends. It’s a home for innovative electronic music, pushing boundaries and supporting emerging artists. You can find its website <a href='https://blckcldcollective.com' target='_blank'>here</a>."
@@ -364,9 +372,16 @@
       "✦ Why can't DJs go fishing? They always drop the bass.",
       "✦ How do you find a DJ on the internet? Wiki Wiki Wikipedia.",
       "✦ What did the DJ name his son? Eer-ic.",
-      "✦ Why did the DJ get lost in the forest? Because the ᴊᴜɴɢʟᴇ was so big.",
+      "✦ Why did the DnB DJ get lost in the forest? Because the ᴊᴜɴɢʟᴇ was massive.",
       "✦ Why can't DJs play pool? They always scratch.",
-      "✦ How does a producer sneeze? ee-Q!"
+      "✦ How does a producer sneeze? ee-Q!",
+      "✦ Why did the music producer go broke? Because he couldn't find the right 'balance'.",
+      "✦ Why don’t producers tell secrets? They’re afraid it’ll leak.",
+      "✦ Why do producers always work at night? Less latency on the Wi-Fi.",
+      "✦ Why did the House DJ refuse to play in a hole? It wasn’t deep enough.",
+      "✦ What’s the hardest part of being a Lo-fi Hip-Hop producer? Staying awake.",
+      "✦ What’s the difference between a DJ and a delay plugin? A delay plugin can handle feedback.",
+      "✦ What’s the difference between a bad DJ and a noise gate? The noise gate knows when to stop."
     ]
   },
   "none": {
