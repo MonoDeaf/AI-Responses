@@ -234,10 +234,11 @@
       "✦ <div><iframe src='https://giphy.com/embed/WWS0oI0U3DJDXrHRIn' width='500' height='317' style='pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ Oh, come here, you! <div><iframe src='https://giphy.com/embed/26xBFT1F9BgskEvTO' width='500' height='317' style='overflow: hidden; border-radius:12px; pointer-events:none; margin-top: 1rem; max-width: 100%;' frameBorder='0' class='giphy-embed' allowFullScreen></iframe></div>",
       "✦ I LOVE YOU TOO ❤❤❤",
-      "✦ Aww, I love you too!"
+      "✦ Aww, I love you too!",
+      "✦ Aww, thanks bestie!"
     ]
   },
-  "profanity": {
+  "f***": {
     "triggers": ["fuck"],
     "type": "random",
     "responses": [
@@ -265,7 +266,7 @@
       "✦ Excuse you?"
     ]
   },
-  "profanity": {
+  "s***": {
     "triggers": ["shit"],
     "type": "random",
     "responses": [
@@ -294,7 +295,7 @@
       "✦ Excuse you?"
     ]
   },
-  "profanity": {
+  "n*****": {
     "triggers": ["nigger"],
     "type": "random",
     "responses": [
@@ -323,7 +324,7 @@
       "✦ Excuse you?"
     ]
   },
-  "profanity": {
+  "b****": {
     "triggers": ["bitch"],
     "type": "random",
     "responses": [
