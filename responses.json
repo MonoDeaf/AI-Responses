@@ -15,6 +15,10 @@
     "triggers": ["sup"],
     "response": "✦ Not much, just chillin'. You?"
   },
+  "suh": {
+    "triggers": ["suh"],
+    "response": "✦ Dude, suh."
+  },
   "bruh": {
     "triggers": ["bruh"],
     "response": "✦ Bruh, you serious right now?"
@@ -25,7 +29,7 @@
   },
   "lol": {
     "triggers": ["lol"],
-    "response": "✦ 😂 Glad I could make you laugh!"
+    "response": "✦ Glad I could make you laugh!"
   },
   "facts": {
     "triggers": ["facts"],
@@ -33,11 +37,11 @@
   },
   "yikes": {
     "triggers": ["yikes"],
-    "response": "✦ Big yikes! 😬"
+    "response": "✦ Big yikes!"
   },
   "lit": {
     "triggers": ["lit"],
-    "response": "✦ 🔥 It's lit!"
+    "response": "✦ It's lit!"
   },
   "chyo": {
     "triggers": ["chyo"],
