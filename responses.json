@@ -193,15 +193,15 @@
   },
   "soundcloud": {
     "triggers": ["soundcloud"],
-    "response": "✦ Check out MonoDeaf's latest releases on SoundCloud! <div><iframe width='100%' height='166' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/monodeaf/sets/latest-releases&color=%231a1a1a'></iframe></div>"
+    "response": "✦ Check out MonoDeaf's latest releases on SoundCloud! <div><iframe style='margin-top:1rem;' width='500' height='450' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1645906348&color=%23191919&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true'></iframe><div style='font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;'><a href='https://soundcloud.com/monodeaf' title='MonoDeaf' target='_blank' style='color: #cccccc; text-decoration: none;'>MonoDeaf</a> · <a href='https://soundcloud.com/monodeaf/sets/monodeaf' title='This Is: MonoDeaf' target='_blank' style='color: #cccccc; text-decoration: none;'>This Is: MonoDeaf</a></div></div>"
   },
   "monodeafs soundcloud": {
     "triggers": ["monodeafs soundcloud"],
-    "response": "✦ Check out MonoDeaf's latest releases on SoundCloud! <div><iframe width='100%' height='166' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/monodeaf/sets/latest-releases&color=%231a1a1a'></iframe></div>"
+    "response": "✦ Check out MonoDeaf's latest releases on SoundCloud! <div><iframe style='margin-top:1rem;' width='500' height='450' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1645906348&color=%23191919&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true'></iframe><div style='font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;'><a href='https://soundcloud.com/monodeaf' title='MonoDeaf' target='_blank' style='color: #cccccc; text-decoration: none;'>MonoDeaf</a> · <a href='https://soundcloud.com/monodeaf/sets/monodeaf' title='This Is: MonoDeaf' target='_blank' style='color: #cccccc; text-decoration: none;'>This Is: MonoDeaf</a></div></div>"
   },
   "monodeaf's soundcloud": {
     "triggers": ["monodeaf's soundcloud"],
-    "response": "✦ Check out MonoDeaf's latest releases on SoundCloud! <div><iframe width='100%' height='166' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/monodeaf/sets/latest-releases&color=%231a1a1a'></iframe></div>"
+    "response": "✦ Check out MonoDeaf's latest releases on SoundCloud! <div><iframe style='margin-top:1rem;' width='500' height='450' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1645906348&color=%23191919&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true'></iframe><div style='font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;'><a href='https://soundcloud.com/monodeaf' title='MonoDeaf' target='_blank' style='color: #cccccc; text-decoration: none;'>MonoDeaf</a> · <a href='https://soundcloud.com/monodeaf/sets/monodeaf' title='This Is: MonoDeaf' target='_blank' style='color: #cccccc; text-decoration: none;'>This Is: MonoDeaf</a></div></div>"
   },
   "spotify": {
     "triggers": ["spotify"],
@@ -223,7 +223,7 @@
     "triggers": ["website"],
     "response": "✦ Nate embarked on the journey of web design and web development when his record label, BLCK CLD COLLECTIVE, needed a website. His journey started with <a href='https://carrd.co'>Carrd</a>, a one page website maker for pretty much anything. Nate enjoyed learning code such as HTML, CSS and JavaScript to break the limiting barriers of carrd for extra features, functionalities and fun interactivity. When the record label's plan called for more features that Carrd couldn't handle, Nate moved the platform over to <a href='https://ycode.com'>Ycode</a>. Nate later became an official Ycode expert, and still enjoys creating fun and intricate websites and components in code to bring that extra finesse into his web projects."
   },
-  "excclusive": {
+  "exclusive": {
     "triggers": ["exclusive"],
     "response": "✦ Ah, you came here for that exclusive treat! My apologies, where are my manners?! Here you go, loyal fan! [Special Treat Here]"
   },
@@ -237,7 +237,7 @@
       "✦ Aww, I love you too!"
     ]
   },
-  "fuck": {
+  "profanity": {
     "triggers": ["fuck"],
     "type": "random",
     "responses": [
@@ -265,7 +265,7 @@
       "✦ Excuse you?"
     ]
   },
-  "shit": {
+  "profanity": {
     "triggers": ["shit"],
     "type": "random",
     "responses": [
@@ -294,7 +294,7 @@
       "✦ Excuse you?"
     ]
   },
-  "nigger": {
+  "profanity": {
     "triggers": ["nigger"],
     "type": "random",
     "responses": [
@@ -323,7 +323,7 @@
       "✦ Excuse you?"
     ]
   },
-  "bitch": {
+  "profanity": {
     "triggers": ["bitch"],
     "type": "random",
     "responses": [
