@@ -7,6 +7,14 @@
     "triggers": ["hello"],
     "response": "✦ Hi there. How can I help you today?"
   },
+  "hi": {
+    "triggers": ["hi"],
+    "response": "✦ Hi there. How can I help you today?"
+  },
+  "hiya": {
+    "triggers": ["hiya"],
+    "response": "✦ Hiya. How can I help you today?"
+  },
   "yo": {
     "triggers": ["yo"],
     "response": "✦ Yo yo. Whatchya need?"
