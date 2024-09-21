@@ -83,6 +83,10 @@
     "triggers": ["what's your name"],
     "response": "✦ I don't really have a name... at least... right now."
   },
+  "what is your name": {
+    "triggers": ["what is your name"],
+    "response": "✦ I don't really have a name... at least... right now."
+  },
   "are you real": {
     "triggers": ["are you real"],
     "response": "✦ No... but I like to think I am!"
@@ -138,6 +142,10 @@
   "monodeaf's real name": {
     "triggers": ["monodeaf's real name"],
     "response": "✦ MonoDeaf’s real name is Nate Sterling."
+  },
+  "where does monodeaf live": {
+    "triggers": ["where does monodeaf live"],
+    "response": "✦ MonoDeaf is based in NW, Ohio."
   },
   "epk": {
     "triggers": ["epk"],
