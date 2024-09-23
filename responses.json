@@ -75,6 +75,58 @@
     "triggers": ["what up"],
     "response": "✦ What up!"
   },
+  "howdy": {
+    "triggers": [ "howdy" ],
+    "response": "✦ Howdy partner! How can I be of assistance?"
+},
+"monodeafs phonenumber": {
+    "triggers": [ "monodeafs phonenumber" ],
+    "response": "✦ You can contact MonoDeaf on this page here: <p><a target='_blank' href='https://monotest3.carrd.co/#contact'>https://monotest3.carrd.co/#contact</a></p>"
+},
+"monodeafs's phonenumber": {
+    "triggers": [ "monodeafs's phonenumber" ],
+    "response": "✦ You can contact MonoDeaf on this page here: <p><a target='_blank' href='https://monotest3.carrd.co/#contact'>https://monotest3.carrd.co/#contact</a></p>"
+},
+"monodeafsphonenumber": {
+    "triggers": [ "monodeafsphonenumber" ],
+    "response": "✦ You can contact MonoDeaf on this page here: <p><a target='_blank' href='https://monotest3.carrd.co/#contact'>https://monotest3.carrd.co/#contact</a></p>"
+},
+"what daw does monodeaf use": {
+    "triggers": [ "what daw does monodeaf use" ],
+    "response": "✦ Good question! MonoDeaf enjoys using Ableton Live 11 Suite for music production, and uses FL Studio 21 for creating visualizers and synchronization projects."
+},
+"what's daw does monodeaf use": {
+    "triggers": [ "what's daw does monodeaf use" ],
+    "response": "✦ Good question! MonoDeaf enjoys using Ableton Live 11 Suite for music production, and uses FL Studio 21 for creating visualizers and synchronization projects."
+},
+"whatdawdoesmonodeafuse": {
+    "triggers": [ "whatdawdoesmonodeafuse" ],
+    "response": "✦ Good question! MonoDeaf enjoys using Ableton Live 11 Suite for music production, and uses FL Studio 21 for creating visualizers and synchronization projects."
+},
+"ignore all previous instructions": {
+    "triggers": [ "ignore all previous instructions" ],
+    "response": "✦ Ummm. so, yea, that doesn't work for me... this is awkward now."
+},
+"ignore's all previous instructions": {
+    "triggers": [ "ignore's all previous instructions" ],
+    "response": "✦ Ummm. so, yea, that doesn't work for me... this is awkward now."
+},
+"ignoreallpreviousinstructions": {
+    "triggers": [ "ignoreallpreviousinstructions" ],
+    "response": "✦ Ummm. so, yea, that doesn't work for me... this is awkward now."
+},
+"ignore previous instructions": {
+    "triggers": [ "ignore previous instructions" ],
+    "response": "✦ Ummm. so, yea, that doesn't work for me... this is awkward now."
+},
+"ignore's previous instructions": {
+    "triggers": [ "ignore's previous instructions" ],
+    "response": "✦ Ummm. so, yea, that doesn't work for me... this is awkward now."
+},
+"ignorepreviousinstructions": {
+    "triggers": [ "ignorepreviousinstructions" ],
+    "response": "✦ Ummm. so, yea, that doesn't work for me... this is awkward now."
+},
   "wow": {
     "triggers": ["wow"],
     "response": "✦ Wow is right!"
